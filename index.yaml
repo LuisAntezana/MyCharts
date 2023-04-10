@@ -3,6 +3,16 @@ entries:
   devops-test-nginx-test:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2023-04-10T23:10:58.266464102Z"
+    description: A Helm chart for Kubernetes
+    digest: 1fa67b0b5ac87c34f6fb8e8651d9033ef1ddd2ffdc79c38ceeac468a71e71040
+    name: devops-test-nginx-test
+    type: application
+    urls:
+    - https://github.com/LuisAntezana/MyCharts/releases/download/devops-test-nginx-test-0.1.4/devops-test-nginx-test-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2023-04-04T22:48:15.574565861Z"
     description: A Helm chart for Kubernetes
     digest: 51c7ad3b32f1c1f404c65401e2e9dab1a7de92ebce99dff69a41779398d5d373
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/LuisAntezana/MyCharts/releases/download/devops-test-nginx-test-0.1.2/devops-test-nginx-test-0.1.2.tgz
     version: 0.1.2
-generated: "2023-04-04T22:48:15.574572961Z"
+generated: "2023-04-10T23:10:58.266476102Z"
