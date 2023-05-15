@@ -9,4 +9,4 @@ on:
 jobs:
   automerge-branches:
     name: "Automerge branches"
-    uses: octo-org/example-repo/.github/workflows/workflow-A.yml@v1
+    uses: github.com/LuisAntezana/test_repo/blob/main/.github/workflows/automerge2.yml@main
