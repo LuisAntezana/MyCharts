@@ -1,0 +1,12 @@
+name: Automerge2
+
+on:
+  push:
+    branches:
+    - release/**
+    - main
+
+jobs:
+  automerge-branches:
+    name: "Automerge branches"
+    uses: octo-org/example-repo/.github/workflows/workflow-A.yml@v1
