@@ -9,4 +9,4 @@ on:
 jobs:
   automerge-branches:
     name: "Automerge branches"
-    uses: github.com/LuisAntezana/test_repo/blob/main/.github/workflows/automerge2.yml@main
+    uses: LuisAntezana/test_repo/.github/workflows/automerge2.yml@main
